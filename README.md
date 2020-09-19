@@ -12,3 +12,10 @@ This repository contains all online course certificates that I have accomplished
 - [x] [**Course 2**: Excel Skills for Business: Intermediate I](https://github.com/GoodDee/Certificates/blob/master/Coursera-Excel-Skills_for_Business_Intermediate_I.pdf)
 - [x] [**Course 3**: Excel Skills for Business: Intermediate II](https://github.com/GoodDee/Certificates/blob/master/Cousera-Excel-Skills_for_Business_Intermediate_II.pdf)
 - [x] [**Course 4**: Excel Skills for Business: Advanced](https://github.com/GoodDee/Certificates/blob/master/Coursera-Excel_Skills_for_Business_Advanced.pdf)
+
+## [Deep Learning Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Deep_Learning.pdf)
+- [x] [**Course 1**: Neural Networks and Deep Learning](https://github.com/GoodDee/Certificates/blob/master/Coursera-Neutral_Networks_and_Deep_Learning.pdf)
+- [x] [**Course 2**: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Improving_Deep_Neural_Networks_Hyperparameter_tuning_Regularization_Optimization.pdf)
+- [x] [**Course 3**: Structuring Machine Learning Projects](https://github.com/GoodDee/Certificates/blob/master/Coursera-Structuring_Machine_Learning_Projects.pdf)
+- [x] [**Course 4**: Convolutional Neural Networks](https://github.com/GoodDee/Certificates/blob/master/Coursera-Convolutional_Neural_Networks.pdf)
+- [x] [**Course 5**: Sequence Models](https://github.com/GoodDee/Certificates/blob/master/Coursera-Sequence_Models.pdf)
