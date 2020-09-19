@@ -20,8 +20,14 @@ This repository contains all online course certificates that I have accomplished
 - [x] [**Course 4**: Convolutional Neural Networks](https://github.com/GoodDee/Certificates/blob/master/Coursera-Convolutional_Neural_Networks.pdf)
 - [x] [**Course 5**: Sequence Models](https://github.com/GoodDee/Certificates/blob/master/Coursera-Sequence_Models.pdf)
 
-## [Tensorflow: Data and Deployment Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Tensorflow_Data_and_Deployment.pdf)
+## [TensorFlow: Data and Deployment Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Tensorflow_Data_and_Deployment.pdf)
 - [x] [**Course 1**: Browser-Based Models with TensorFlow.js](https://github.com/GoodDee/Certificates/blob/master/Coursea-Browser_based_Models_with_Tensorflow_js.pdf)
 - [x] [**Course 2**: Device-Based Models with TensorFlow Lite](https://github.com/GoodDee/Certificates/blob/master/Coursera-Deviced_based_Models_with_Tensorflow_Lite.pdf)
 - [x] [**Course 3**: Data Pipelines with TensorFlow Data Services](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Pipelines_with_Tensorflow_Data_Service.pdf)
 - [x] [**Course 4**: Advanced Deployment Scenarios with TensorFlow](https://github.com/GoodDee/Certificates/blob/master/Coursera-Advanced_Deployment_Scenarios_with_Tensorflow.pdf)
+
+## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/GoodDee/Certificates/blob/master/Coursera-DeepLearningAI_TensorFlow_Developer.pdf)
+- [x] [**Course 1**: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/GoodDee/Certificates/blob/master/Coursera-Introduction_to_Tensorflow_for_AI_ML_DL.pdf)
+- [x] [**Course 2**: Convolutional Neural Networks in TensorFlow](https://github.com/GoodDee/Certificates/blob/master/Coursera-Convolutional_Neural_Networks_in_Tensorflow.pdf)
+- [x] [**Course 3**: Natural Language Processing in TensorFlow](https://github.com/GoodDee/Certificates/blob/master/Coursera-Natural_Language_Processing_in_Tensorflow.pdf)
+- [x] [**Course 4**: Sequences, Time Series and Prediction](https://github.com/GoodDee/Certificates/blob/master/Coursera-Sequences_Time_Series_and_Prediction.pdf)
