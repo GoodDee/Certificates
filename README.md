@@ -35,7 +35,14 @@ This repository contains all online course certificates that I have accomplished
 ## [Data Structures and Algorithms Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Structures_and_Algorithms.pdf)
 - [x] [**Course 1**: Algorithmic Toolbox](https://github.com/GoodDee/Certificates/blob/master/Coursera-Algorithmic_Toolbox.pdf)
 - [x] [**Course 2**: Data Structures](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Structures.pdf)
-- [x] [**Course 3**: Algorithms on Graphs](https://github.com/GoodDee/Certificates/blob/master/Coursera-Algorithms_on_Graphs.pdf)\
+- [x] [**Course 3**: Algorithms on Graphs](https://github.com/GoodDee/Certificates/blob/master/Coursera-Algorithms_on_Graphs.pdf)
 - [x] [**Course 4**: Algorithms on Strings](https://github.com/GoodDee/Certificates/blob/master/Coursera-Algorithms_on_Strings.pdf)
 - [x] [**Course 5**: Advanced Algorithms and Complexity](https://github.com/GoodDee/Certificates/blob/master/Coursera-Advanced_Algorithms_and_Complexity.pdf)
 - [x] [**Course 6**: Genome Assembly Programming Challenge](https://github.com/GoodDee/Certificates/blob/master/Coursera-Genome_Assembly_Programming_Challenge.pdf)
+
+## [Excel to MySQL: Analytic Techniques for Business Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Excel_to_MySQL_Analytic_Techniques_for_Business.pdf)
+- [x] [**Course 1**: Business Metrics for Data-Driven Companies](https://github.com/GoodDee/Certificates/blob/master/Coursera-Business_Metrics_for_Data-Driven_Companies.pdf)
+- [x] [**Course 2**: Mastering Data Analysis in Excel](https://github.com/GoodDee/Certificates/blob/master/Coursera-Mastering_Data_Analysis_in_Excel.pdf)
+- [x] [**Course 3**: Data Visualization and Communication with Tableau](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Visualization_and_Communication_with_Tableau.pdf)
+- [x] [**Course 4**: Managing Big Data with MySQL](https://github.com/GoodDee/Certificates/blob/master/Coursera-Managing_Big_Data_with_MySQL.pdf)
+- [x] [**Course 5**: Increasing Real Estate Management Profits: Harnessing Data Analytics](https://github.com/GoodDee/Certificates/blob/master/Coursera-Increasing_Real_Estate_Management_Profits_Harnessing_Data_Analytics.pdf)
