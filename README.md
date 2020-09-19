@@ -31,3 +31,11 @@ This repository contains all online course certificates that I have accomplished
 - [x] [**Course 2**: Convolutional Neural Networks in TensorFlow](https://github.com/GoodDee/Certificates/blob/master/Coursera-Convolutional_Neural_Networks_in_Tensorflow.pdf)
 - [x] [**Course 3**: Natural Language Processing in TensorFlow](https://github.com/GoodDee/Certificates/blob/master/Coursera-Natural_Language_Processing_in_Tensorflow.pdf)
 - [x] [**Course 4**: Sequences, Time Series and Prediction](https://github.com/GoodDee/Certificates/blob/master/Coursera-Sequences_Time_Series_and_Prediction.pdf)
+
+## [Data Structures and Algorithms Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Structures_and_Algorithms.pdf)
+- [x] [**Course 1**: Algorithmic Toolbox](https://github.com/GoodDee/Certificates/blob/master/Coursera-Algorithmic_Toolbox.pdf)
+- [x] [**Course 2**: Data Structures](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Structures.pdf)
+- [x] [**Course 3**: Algorithms on Graphs](https://github.com/GoodDee/Certificates/blob/master/Coursera-Algorithms_on_Graphs.pdf)\
+- [x] [**Course 4**: Algorithms on Strings](https://github.com/GoodDee/Certificates/blob/master/Coursera-Algorithms_on_Strings.pdf)
+- [x] [**Course 5**: Advanced Algorithms and Complexity](https://github.com/GoodDee/Certificates/blob/master/Coursera-Advanced_Algorithms_and_Complexity.pdf)
+- [x] [**Course 6**: Genome Assembly Programming Challenge](https://github.com/GoodDee/Certificates/blob/master/Coursera-Genome_Assembly_Programming_Challenge.pdf)
