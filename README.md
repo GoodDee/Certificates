@@ -19,3 +19,9 @@ This repository contains all online course certificates that I have accomplished
 - [x] [**Course 3**: Structuring Machine Learning Projects](https://github.com/GoodDee/Certificates/blob/master/Coursera-Structuring_Machine_Learning_Projects.pdf)
 - [x] [**Course 4**: Convolutional Neural Networks](https://github.com/GoodDee/Certificates/blob/master/Coursera-Convolutional_Neural_Networks.pdf)
 - [x] [**Course 5**: Sequence Models](https://github.com/GoodDee/Certificates/blob/master/Coursera-Sequence_Models.pdf)
+
+## [Tensorflow: Data and Deployment Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Tensorflow_Data_and_Deployment.pdf)
+- [x] [**Course 1**: Browser-Based Models with TensorFlow.js](https://github.com/GoodDee/Certificates/blob/master/Coursea-Browser_based_Models_with_Tensorflow_js.pdf)
+- [x] [**Course 2**: Device-Based Models with TensorFlow Lite](https://github.com/GoodDee/Certificates/blob/master/Coursera-Deviced_based_Models_with_Tensorflow_Lite.pdf)
+- [x] [**Course 3**: Data Pipelines with TensorFlow Data Services](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Pipelines_with_Tensorflow_Data_Service.pdf)
+- [x] [**Course 4**: Advanced Deployment Scenarios with TensorFlow](https://github.com/GoodDee/Certificates/blob/master/Coursera-Advanced_Deployment_Scenarios_with_Tensorflow.pdf)
