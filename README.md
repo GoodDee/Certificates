@@ -46,3 +46,11 @@ This repository contains all online course certificates that I have accomplished
 - [x] [**Course 3**: Data Visualization and Communication with Tableau](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Visualization_and_Communication_with_Tableau.pdf)
 - [x] [**Course 4**: Managing Big Data with MySQL](https://github.com/GoodDee/Certificates/blob/master/Coursera-Managing_Big_Data_with_MySQL.pdf)
 - [x] [**Course 5**: Increasing Real Estate Management Profits: Harnessing Data Analytics](https://github.com/GoodDee/Certificates/blob/master/Coursera-Increasing_Real_Estate_Management_Profits_Harnessing_Data_Analytics.pdf)
+
+## [Big Data Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Big_Data_Specialization.pdf)
+- [x] [**Course 1**: Introduction to Big Data](https://github.com/GoodDee/Certificates/blob/master/Coursera-Introduction_to_Big_Data.pdf)
+- [x] [**Course 2**: Big Data Modeling and Management Systems](https://github.com/GoodDee/Certificates/blob/master/Coursera-Big_Data_Modeling_and_Management_Systems.pdf)
+- [x] [**Course 3**: Big Data Integration and Processing](https://github.com/GoodDee/Certificates/blob/master/Coursera-Big_Data_Integration_and_Processing.pdf)
+- [x] [**Course 4**: Machine Learning with Big Data](https://github.com/GoodDee/Certificates/blob/master/Coursera-Machine_Learning_with_Big_Data.pdf)
+- [x] [**Course 5**: Graph Analytics for Big Data](https://github.com/GoodDee/Certificates/blob/master/Coursera-Graph_Analytics_for_Big_Data.pdf)
+- [x] [**Course 6**: Big Data - Capstone Project](https://github.com/GoodDee/Certificates/blob/master/Coursera-Big_Data_Capstone_Project.pdf)
