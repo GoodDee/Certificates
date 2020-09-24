@@ -1,5 +1,5 @@
 # Certificates
-This repository contains all online course certificates that I have accomplished.
+This repository contains all online course and specialization certificates that I have accomplished.
 ## [Recommender System Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Recommender_Systems.pdf)
 - [x] [**Course 1**: Introduction to Recommender Systems: Non-Personalized and Content-Based](https://github.com/GoodDee/Certificates/blob/master/Coursera-Introduction_to_Recommender_Systems_Non-Personalized_and_Content-Based.pdf)
 - [x] [**Course 2**: Nearest Neighbor Collaborative Filtering](https://github.com/GoodDee/Certificates/blob/master/Coursera-Nearest_Neighbor_Collaborative_Filtering.pdf)
@@ -54,3 +54,13 @@ This repository contains all online course certificates that I have accomplished
 - [x] [**Course 4**: Machine Learning with Big Data](https://github.com/GoodDee/Certificates/blob/master/Coursera-Machine_Learning_with_Big_Data.pdf)
 - [x] [**Course 5**: Graph Analytics for Big Data](https://github.com/GoodDee/Certificates/blob/master/Coursera-Graph_Analytics_for_Big_Data.pdf)
 - [x] [**Course 6**: Big Data - Capstone Project](https://github.com/GoodDee/Certificates/blob/master/Coursera-Big_Data_Capstone_Project.pdf)
+
+## [Advanced Machine Learning Specialization](https://github.com/GoodDee/Certificates/blob/master/Coursera-Advanced_Machine_Learning_Specialization.pdf)
+- [x] [**Course 1**: Introduction to Deep Learning](https://github.com/GoodDee/Certificates/blob/master/Coursera-Introduction_to_Deep_Learning.pdf)
+- [x] [**Course 2**: How to Win a Data Science Competition: Learn from Top Kagglers](https://github.com/GoodDee/Certificates/blob/master/Coursera-How_to_Win_a_Data_Science_Competition.pdf)
+- [x] [**Course 3**: Bayesian Methods for Machine Learning](https://github.com/GoodDee/Certificates/blob/master/Coursera-Bayesian_Methods_for_Machine_Learning.pdf)
+- [x] [**Course 4**: Practical Reinforcement Learning](https://github.com/GoodDee/Certificates/blob/master/Coursera-Practical_Reinforcement_Learning.pdf)
+- [x] [**Course 5**: Deep Learning in Computer Vision](https://github.com/GoodDee/Certificates/blob/master/Coursera-Deep_Learning_in_Computer_Vision.pdf)
+- [x] [**Course 6**: Natural Language Processing](https://github.com/GoodDee/Certificates/blob/master/Coursera-Natural_Language_Processing.pdf)
+- [x] [**Course 7**: Addressing Large Hadron Collider Challenges by Machine Learning](https://github.com/GoodDee/Certificates/blob/master/Coursera-Addressing_Large_Hadron_Collider_Challenges.pdf)
+
