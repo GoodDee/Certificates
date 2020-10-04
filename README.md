@@ -64,3 +64,9 @@ This repository contains all online course and specialization certificates that 
 - [x] [**Course 6**: Natural Language Processing](https://github.com/GoodDee/Certificates/blob/master/Coursera-Natural_Language_Processing.pdf)
 - [x] [**Course 7**: Addressing Large Hadron Collider Challenges by Machine Learning](https://github.com/GoodDee/Certificates/blob/master/Coursera-Addressing_Large_Hadron_Collider_Challenges.pdf)
 
+## [Learn SQL Basics for Data Science](https://github.com/GoodDee/Certificates/blob/master/Coursera-Learn_SQL_Basics_for_Data_Science.pdf)
+- [x] [**Course 1**: SQL for Data Science](https://github.com/GoodDee/Certificates/blob/master/Coursera-SQL_for_Data_Science.pdf)
+- [x] [**Course 2**: Data Wrangling, Analysis and AB Testing with SQL](https://github.com/GoodDee/Certificates/blob/master/Coursera-Data_Wrangling_Analysis_AB_Testing_with_SQL.pdf)
+- [x] [**Course 3**: Distributed Computing with Spark SQL](https://github.com/GoodDee/Certificates/blob/master/Coursera-Distributed_Computing_with_Spark_SQL.pdf)
+- [x] [**Course 4**: SQL for Data Science Capstone Project](https://github.com/GoodDee/Certificates/blob/master/Coursera-SQL_for_Data_Science_Capstone.pdf)
+
